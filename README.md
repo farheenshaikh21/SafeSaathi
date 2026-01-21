@@ -4,35 +4,30 @@ SafeRoute is a safety platform designed to enhance personal security through cri
 
 🌟 Key Features  
 
-🧭 Safe Navigation
+### 🧭 Safe Navigation
 
 ML based safest route prediction
 
-Routes ranked based on:
-
-Crime rate
-
-Lighting conditions
-
-CCTV coverage
-
-Pedestrian traffic
-
+Routes ranked based on:  
+Crime rate  
+Lighting conditions  
+CCTV coverage  
+Pedestrian traffic  
 Emergency accessibility
 
-🚨 SOS Emergency Alert
+### 🚨 SOS Emergency Alert
 
 One-click SOS trigger
 
 Sends emergency request instantly
 
-🚕 Emergency Cab Service
+### 🚕 Emergency Cab Service
 
 Priority access during unsafe situations
 
 Designed to ensure quick and secure transport
 
-🤖 AI Safety Plan
+### 🤖 AI Safety Plan
 
 Personalized AI-based safety recommendations
 
@@ -40,33 +35,31 @@ Uses historical and environmental data
 
 Helps users plan safer travel decisions in advance
 
-🤝 Community Portal
+### 🤝 Community Portal
 
 Report incidents and share safety tips
 
 Encourages community driven safety awareness
 
-🥋 Self-Defense Training Module
+### 🥋 Self-Defense Training Module
 
 Provides access to basic self-defense techniques
 
 Encourages preparedness and confidence
 
+### Screenshots
 
 
-🛠️ Tech Stack
+
+### 🛠️ Tech Stack
 🔙 Backend
 
-Python
-
-Scikit-learn (ML safety model)
-
-Pandas & NumPy
-
-Pickle 
+Python  
+Scikit-learn  
+Pandas & NumPy  
+Pickle   
 
 🎨 Frontend
 
-HTML, CSS, JavaScript
-
+HTML, CSS, JavaScript  
 React + Vite   
